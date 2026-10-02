@@ -1,2 +1,1 @@
-# Streamlining-Ticket-Assignment-for-Efficient-Support-Operations-project
-Project developed at college with help of ServiceNow Developers
+A ServiceNow-based IT support project developed during my final year under the Naan Mudhalvan Program, with guidance from ServiceNow professionals. The solution focuses on efficient ticket assignment and routing to appropriate support teams, helping streamline incident management and support operations.d
